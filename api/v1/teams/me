@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": {
+    "country": null,
+    "email": null,
+    "captain_id": 9999,
+    "bracket_id": null,
+    "oauth_id": null,
+    "name": "Anonymous",
+    "id": 9999,
+    "fields": [],
+    "affiliation": null,
+    "website": null,
+    "members": [
+      9999
+    ],
+    "place": null,
+    "score": 0
+  }
+}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Mr. Blue Sky", "id": 20}, "type": "correct", "team": {"name": "sliderboo", "id": 757}, "user": {"name": "sliderboo", "id": 1713}, "challenge_id": 20, "id": 9018, "date": "2025-07-26T11:42:12.882575+00:00"}], "meta": {"count": 1}}

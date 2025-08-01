@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T06:08:15.566778+00:00", "user": {"id": 1413, "name": "Yanoosh"}, "id": 5260, "challenge_id": 31, "type": "correct", "team": {"id": 637, "name": "Team Spiryt"}, "challenge": {"id": 31, "name": "park", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

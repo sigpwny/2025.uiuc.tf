@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T01:42:32.180942+00:00", "user": {"id": 1142, "name": "ceyol"}, "id": 1839, "challenge_id": 16, "type": "correct", "team": {"id": 537, "name": "ceyol"}, "challenge": {"id": 16, "name": "too many primes", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

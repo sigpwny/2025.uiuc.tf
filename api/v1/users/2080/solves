@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T02:12:19.954044+00:00", "user": {"id": 2080, "name": "Adam Crow"}, "id": 17229, "challenge_id": 20, "type": "correct", "team": {"id": 525, "name": "Kernel_Sanders"}, "challenge": {"id": 20, "name": "Mr. Blue Sky", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

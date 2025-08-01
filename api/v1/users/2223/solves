@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T15:17:47.424109+00:00", "user": {"id": 2223, "name": "kira07"}, "id": 20849, "challenge_id": 15, "type": "correct", "team": {"id": 135, "name": "@HYDRA"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T11:12:16.888514+00:00", "user": {"id": 1586, "name": "serotav"}, "id": 8749, "challenge_id": 22, "type": "correct", "team": {"id": 471, "name": "TRX"}, "challenge": {"id": 22, "name": "do re mi", "value": 139, "category": "pwn"}}], "meta": {"count": 1}}

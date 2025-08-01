@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T05:41:39.528346+00:00", "user": {"id": 560, "name": "jackofnotrades"}, "id": 4871, "challenge_id": 7, "type": "correct", "team": {"id": 233, "name": "Cyber Janitorial Security Services"}, "challenge": {"id": 7, "name": "X_Ray", "value": 53, "category": "misc"}}], "meta": {"count": 1}}

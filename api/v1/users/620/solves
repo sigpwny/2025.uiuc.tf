@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T19:21:16.886579+00:00", "user": {"id": 620, "name": "Satyam Mavi"}, "id": 14589, "challenge_id": 15, "type": "correct", "team": {"id": 329, "name": "MaviSec"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

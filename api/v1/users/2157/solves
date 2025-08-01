@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T09:17:11.748973+00:00", "user": {"id": 2157, "name": "zerodayops"}, "id": 18808, "challenge_id": 26, "type": "correct", "team": {"id": 941, "name": "Xploiters"}, "challenge": {"id": 26, "name": "Discord", "value": 50, "category": "misc"}}], "meta": {"count": 1}}

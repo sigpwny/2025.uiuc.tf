@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Bad Blood", "id": 30}, "type": "correct", "team": {"name": "organisers", "id": 465}, "user": {"name": "Bentox", "id": 951}, "challenge_id": 30, "id": 10822, "date": "2025-07-26T14:42:16.086045+00:00"}], "meta": {"count": 1}}

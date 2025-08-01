@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "park", "id": 31}, "type": "correct", "team": {"name": "Bober", "id": 971}, "user": {"name": "Mapbober", "id": 2197}, "challenge_id": 31, "id": 19758, "date": "2025-07-27T12:07:51.309782+00:00"}], "meta": {"count": 1}}

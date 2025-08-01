@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T09:48:58.375504+00:00", "user": {"id": 1609, "name": "sarp"}, "id": 7712, "challenge_id": 15, "type": "correct", "team": {"id": 711, "name": "sarp fr"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

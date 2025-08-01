@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T10:38:36.770621+00:00", "user": {"id": 1556, "name": "Chel"}, "id": 19204, "challenge_id": 26, "type": "correct", "team": {"id": 694, "name": "Section55"}, "challenge": {"id": 26, "name": "Discord", "value": 50, "category": "misc"}}], "meta": {"count": 1}}

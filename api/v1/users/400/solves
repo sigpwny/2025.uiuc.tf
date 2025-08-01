@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T07:44:06.763039+00:00", "user": {"id": 400, "name": "iAmncloud9"}, "id": 6439, "challenge_id": 29, "type": "correct", "team": {"id": 215, "name": "3dogscantwin"}, "challenge": {"id": 29, "name": "symmetric", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

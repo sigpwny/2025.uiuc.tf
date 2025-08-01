@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T04:40:41.594864+00:00", "user": {"id": 474, "name": "H4D3ZS"}, "id": 4075, "challenge_id": 26, "type": "correct", "team": {"id": 253, "name": "Pwnomancers"}, "challenge": {"id": 26, "name": "Discord", "value": 50, "category": "misc"}}], "meta": {"count": 1}}

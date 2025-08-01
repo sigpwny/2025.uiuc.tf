@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T02:47:46.787230+00:00", "user": {"id": 1202, "name": "koukou"}, "id": 2710, "challenge_id": 17, "type": "correct", "team": {"id": 150, "name": "freep0nx"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

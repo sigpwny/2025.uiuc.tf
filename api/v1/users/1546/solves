@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T13:35:09.136983+00:00", "user": {"id": 1546, "name": "Dante Veil"}, "id": 20133, "challenge_id": 34, "type": "correct", "team": {"id": 373, "name": "Perperikon"}, "challenge": {"id": 34, "name": "Feedback", "value": 1, "category": "misc"}}], "meta": {"count": 1}}

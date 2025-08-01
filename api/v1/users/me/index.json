@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": {
+    "email": "anonymous@example.com",
+    "id": 9999,
+    "language": null,
+    "country": null,
+    "bracket_id": null,
+    "website": null,
+    "affiliation": null,
+    "fields": [],
+    "team_id": 9999,
+    "name": "Anonymous",
+    "oauth_id": null,
+    "verified": true,
+    "place": null,
+    "score": 0
+  }
+}

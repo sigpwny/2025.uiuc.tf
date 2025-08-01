@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T17:47:25.574263+00:00", "user": {"id": 1241, "name": "panda"}, "id": 13521, "challenge_id": 17, "type": "correct", "team": {"id": 266, "name": "OneBitArmy"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

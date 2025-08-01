@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T19:27:18.042950+00:00", "user": {"id": 1630, "name": "Erge"}, "id": 14650, "challenge_id": 4, "type": "correct", "team": {"id": 471, "name": "TRX"}, "challenge": {"id": 4, "name": "Lua.efi", "value": 426, "category": "pwn"}}], "meta": {"count": 1}}

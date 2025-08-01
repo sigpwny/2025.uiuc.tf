@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T05:50:28.727317+00:00", "user": {"id": 1420, "name": "nvkiero"}, "id": 4990, "challenge_id": 10, "type": "correct", "team": {"id": 505, "name": "aespaFanClub"}, "challenge": {"id": 10, "name": "QAS", "value": 50, "category": "pwn"}}], "meta": {"count": 1}}

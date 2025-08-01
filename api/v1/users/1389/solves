@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Bad Blood", "id": 30}, "type": "correct", "team": {"name": "milworms", "id": 362}, "user": {"name": "Boggerskoy", "id": 1389}, "challenge_id": 30, "id": 6141, "date": "2025-07-26T07:17:43.793914+00:00"}], "meta": {"count": 1}}

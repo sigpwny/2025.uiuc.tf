@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T10:26:00.776188+00:00", "user": {"id": 1625, "name": "marspiter"}, "id": 8084, "challenge_id": 17, "type": "correct", "team": {"id": 729, "name": "palle"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

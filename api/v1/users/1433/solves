@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T08:11:47.004809+00:00", "user": {"id": 1433, "name": "f0und"}, "id": 6699, "challenge_id": 10, "type": "correct", "team": {"id": 644, "name": "US-LAB"}, "challenge": {"id": 10, "name": "QAS", "value": 50, "category": "pwn"}}], "meta": {"count": 1}}

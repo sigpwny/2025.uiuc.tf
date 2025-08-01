@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T15:50:07.206785+00:00", "user": {"id": 2237, "name": "bi irlee"}, "id": 21135, "challenge_id": 32, "type": "correct", "team": {"id": 91, "name": "Kheshig"}, "challenge": {"id": 32, "name": "cherry_blossom", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

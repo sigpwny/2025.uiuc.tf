@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "pwn", "value": 50, "name": "QAS", "id": 10}, "type": "correct", "team": {"name": "spidy_007", "id": 32}, "user": {"name": "claw.k", "id": 52}, "challenge_id": 10, "id": 5932, "date": "2025-07-26T06:56:13.014643+00:00"}], "meta": {"count": 1}}

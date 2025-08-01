@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "park", "id": 31}, "type": "correct", "team": {"name": "The Phishermen", "id": 5}, "user": {"name": "JoeyZeeeeeee", "id": 239}, "challenge_id": 31, "id": 1658, "date": "2025-07-26T01:30:28.921148+00:00"}], "meta": {"count": 1}}

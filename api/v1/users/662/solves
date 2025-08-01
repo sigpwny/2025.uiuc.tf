@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T14:41:57.381535+00:00", "user": {"id": 662, "name": "aura"}, "id": 20498, "challenge_id": 31, "type": "correct", "team": {"id": 199, "name": "Sinister Script"}, "challenge": {"id": 31, "name": "park", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

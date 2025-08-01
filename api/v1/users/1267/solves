@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T09:15:11.062267+00:00", "user": {"id": 1267, "name": "AAA"}, "id": 7390, "challenge_id": 25, "type": "correct", "team": {"id": 580, "name": "AAA"}, "challenge": {"id": 25, "name": "Shipping Bay", "value": 63, "category": "web"}}], "meta": {"count": 1}}

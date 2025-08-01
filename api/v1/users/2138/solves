@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T08:42:11.159413+00:00", "user": {"id": 2138, "name": "Crystal0_0"}, "id": 18690, "challenge_id": 31, "type": "correct", "team": {"id": 941, "name": "Xploiters"}, "challenge": {"id": 31, "name": "park", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

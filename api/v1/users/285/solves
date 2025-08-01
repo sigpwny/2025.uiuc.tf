@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T11:44:52.038741+00:00", "user": {"id": 285, "name": "twd_z"}, "id": 19587, "challenge_id": 29, "type": "correct", "team": {"id": 244, "name": "Ginkgo"}, "challenge": {"id": 29, "name": "symmetric", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

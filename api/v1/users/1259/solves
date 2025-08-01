@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "pwn", "value": 50, "name": "QAS", "id": 10}, "type": "correct", "team": {"name": "Emu Exploit", "id": 218}, "user": {"name": "e", "id": 1259}, "challenge_id": 10, "id": 8586, "date": "2025-07-26T11:00:07.220168+00:00"}], "meta": {"count": 1}}

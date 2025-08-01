@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Mr. Blue Sky", "id": 20}, "type": "correct", "team": {"name": "UNSW K17", "id": 245}, "user": {"name": "qimiwa", "id": 1176}, "challenge_id": 20, "id": 1713, "date": "2025-07-26T01:35:05.893713+00:00"}], "meta": {"count": 1}}

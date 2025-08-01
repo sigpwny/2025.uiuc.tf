@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T11:00:13.314232+00:00", "user": {"id": 1561, "name": "NOTE"}, "id": 8589, "challenge_id": 20, "type": "correct", "team": {"id": 627, "name": "BlitzHack"}, "challenge": {"id": 20, "name": "Mr. Blue Sky", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Bad Blood", "id": 30}, "type": "correct", "team": {"name": "Milchlautsprecher", "id": 690}, "user": {"name": "Luhem", "id": 2041}, "challenge_id": 30, "id": 15854, "date": "2025-07-26T21:53:44.057515+00:00"}], "meta": {"count": 1}}

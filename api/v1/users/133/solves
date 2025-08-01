@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T16:48:29.314447+00:00", "user": {"id": 133, "name": "Eth3real"}, "id": 21501, "challenge_id": 30, "type": "correct", "team": {"id": 71, "name": "D\u03a3DSEC"}, "challenge": {"id": 30, "name": "Bad Blood", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

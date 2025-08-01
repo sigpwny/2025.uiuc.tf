@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "cherry_blossom", "id": 32}, "type": "correct", "team": {"name": "CyberTaskForce Zero", "id": 843}, "user": {"name": "findus", "id": 2042}, "challenge_id": 32, "id": 16325, "date": "2025-07-26T22:57:22.362383+00:00"}], "meta": {"count": 1}}

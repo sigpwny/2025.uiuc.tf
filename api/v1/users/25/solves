@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Bad Blood", "id": 30}, "type": "correct", "team": {"name": "NFSU_RANGERS", "id": 18}, "user": {"name": "Utsav_45", "id": 25}, "challenge_id": 30, "id": 18441, "date": "2025-07-27T07:35:30.547548+00:00"}], "meta": {"count": 1}}

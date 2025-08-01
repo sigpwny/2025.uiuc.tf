@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T02:41:55.055466+00:00", "user": {"id": 765, "name": "NoobGrinder420"}, "id": 17396, "challenge_id": 34, "type": "correct", "team": {"id": 389, "name": "NNSdev"}, "challenge": {"id": 34, "name": "Feedback", "value": 1, "category": "misc"}}], "meta": {"count": 1}}

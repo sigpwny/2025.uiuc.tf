@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "pwn", "value": 95, "name": "Baby Kernel", "id": 27}, "type": "correct", "team": {"name": "ARESx", "id": 198}, "user": {"name": "h0ps", "id": 1475}, "challenge_id": 27, "id": 8295, "date": "2025-07-26T10:42:29.110179+00:00"}], "meta": {"count": 1}}

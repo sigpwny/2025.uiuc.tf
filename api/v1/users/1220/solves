@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T02:23:54.355699+00:00", "user": {"id": 1220, "name": "noname"}, "id": 2316, "challenge_id": 31, "type": "correct", "team": {"id": 552, "name": "f4ng_snyder"}, "challenge": {"id": 31, "name": "park", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

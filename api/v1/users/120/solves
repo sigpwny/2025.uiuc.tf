@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 88, "name": "Age of Aquarius", "id": 18}, "type": "correct", "team": {"name": "RUSEC", "id": 3}, "user": {"name": "dyza", "id": 120}, "challenge_id": 18, "id": 4670, "date": "2025-07-26T05:25:12.366636+00:00"}], "meta": {"count": 1}}

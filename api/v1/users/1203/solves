@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T06:29:05.640064+00:00", "user": {"id": 1203, "name": "IV"}, "id": 5540, "challenge_id": 18, "type": "correct", "team": {"id": 349, "name": "cyberia.club"}, "challenge": {"id": 18, "name": "Age of Aquarius", "value": 88, "category": "osint"}}], "meta": {"count": 1}}

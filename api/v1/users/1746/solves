@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T13:08:57.309924+00:00", "user": {"id": 1746, "name": "javaboii"}, "id": 9715, "challenge_id": 17, "type": "correct", "team": {"id": 316, "name": "deathwing"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

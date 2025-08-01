@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T14:02:33.847968+00:00", "user": {"id": 1802, "name": "Yarik2040"}, "id": 10227, "challenge_id": 17, "type": "correct", "team": {"id": 442, "name": "The power of Elijah"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

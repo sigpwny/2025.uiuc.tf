@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T05:25:35.954813+00:00", "user": {"id": 264, "name": "Yash_wanth"}, "id": 4677, "challenge_id": 31, "type": "correct", "team": {"id": 32, "name": "spidy_007"}, "challenge": {"id": 31, "name": "park", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

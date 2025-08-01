@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T15:31:59.477401+00:00", "user": {"id": 1851, "name": "GrHackoully"}, "id": 11609, "challenge_id": 30, "type": "correct", "team": {"id": 150, "name": "freep0nx"}, "challenge": {"id": 30, "name": "Bad Blood", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

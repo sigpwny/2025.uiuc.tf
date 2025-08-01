@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T04:49:49.381766+00:00", "user": {"id": 1337, "name": "H45H_G4L4XY"}, "id": 4195, "challenge_id": 15, "type": "correct", "team": {"id": 80, "name": "HackerTroupe"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

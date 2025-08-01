@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T00:27:53.515009+00:00", "user": {"id": 450, "name": "buffermilk"}, "id": 601, "challenge_id": 26, "type": "correct", "team": {"id": 245, "name": "UNSW K17"}, "challenge": {"id": 26, "name": "Discord", "value": 50, "category": "misc"}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T05:23:44.027542+00:00", "user": {"id": 1376, "name": "skalvin"}, "id": 4651, "challenge_id": 15, "type": "correct", "team": {"id": 623, "name": "CyberUNIT"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T16:31:57.848161+00:00", "user": {"id": 925, "name": "hexamine"}, "id": 21387, "challenge_id": 12, "type": "correct", "team": {"id": 198, "name": "ARESx"}, "challenge": {"id": 12, "name": "ELF Capsule", "value": 449, "category": "rev"}}], "meta": {"count": 1}}

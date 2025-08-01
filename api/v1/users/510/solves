@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T11:13:31.423737+00:00", "user": {"id": 510, "name": "xmort"}, "id": 19366, "challenge_id": 17, "type": "correct", "team": {"id": 275, "name": "CRKHS"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

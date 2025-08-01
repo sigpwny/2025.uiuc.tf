@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T19:11:57.867738+00:00", "user": {"id": 1995, "name": "youssefhrouz"}, "id": 14471, "challenge_id": 26, "type": "correct", "team": {"id": 867, "name": "lissan al ghaib"}, "challenge": {"id": 26, "name": "Discord", "value": 50, "category": "misc"}}], "meta": {"count": 1}}

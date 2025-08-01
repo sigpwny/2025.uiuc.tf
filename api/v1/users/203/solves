@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T05:40:39.016427+00:00", "user": {"id": 203, "name": "deadlyphysco"}, "id": 4858, "challenge_id": 29, "type": "correct", "team": {"id": 109, "name": "DIGGAJ"}, "challenge": {"id": 29, "name": "symmetric", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T08:11:19.662465+00:00", "user": {"id": 1529, "name": "m"}, "id": 6695, "challenge_id": 15, "type": "correct", "team": {"id": 218, "name": "Emu Exploit"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

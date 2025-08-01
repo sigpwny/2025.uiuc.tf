@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T01:36:33.693597+00:00", "user": {"id": 475, "name": "Unusualnick"}, "id": 1733, "challenge_id": 31, "type": "correct", "team": {"id": 317, "name": "FAWE"}, "challenge": {"id": 31, "name": "park", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

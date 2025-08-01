@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T06:47:14.328832+00:00", "user": {"id": 1448, "name": "letsrage4"}, "id": 5820, "challenge_id": 32, "type": "correct", "team": {"id": 370, "name": "exploiitm"}, "challenge": {"id": 32, "name": "cherry_blossom", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

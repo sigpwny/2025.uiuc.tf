@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T15:48:43.226319+00:00", "user": {"id": 1313, "name": "notarealaccount_justfortesting"}, "id": 11882, "challenge_id": 15, "type": "correct", "team": {"id": 603, "name": "CyberLions"}, "challenge": {"id": 15, "name": "the shortest crypto chal", "value": 50, "category": "crypto"}}], "meta": {"count": 1}}

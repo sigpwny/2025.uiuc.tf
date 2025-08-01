@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "pwn", "value": 50, "name": "QAS", "id": 10}, "type": "correct", "team": {"name": "saladstream", "id": 86}, "user": {"name": "Redoc", "id": 2028}, "challenge_id": 10, "id": 16991, "date": "2025-07-27T01:12:09.333311+00:00"}], "meta": {"count": 1}}

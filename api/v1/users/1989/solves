@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T19:36:31.332984+00:00", "user": {"id": 1989, "name": "GoSlowPoke"}, "id": 22546, "challenge_id": 34, "type": "correct", "team": {"id": 603, "name": "CyberLions"}, "challenge": {"id": 34, "name": "Feedback", "value": 1, "category": "misc"}}], "meta": {"count": 1}}

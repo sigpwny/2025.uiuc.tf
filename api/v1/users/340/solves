@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T21:20:07.371043+00:00", "user": {"id": 340, "name": "Fanta"}, "id": 15624, "challenge_id": 23, "type": "correct", "team": {"id": 175, "name": "\ud83c\uddeb\ud83c\uddf7 French Corp"}, "challenge": {"id": 23, "name": "Supermassive Black Hole", "value": 50, "category": "web"}}], "meta": {"count": 1}}

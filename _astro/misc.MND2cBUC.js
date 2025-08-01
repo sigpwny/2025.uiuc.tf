@@ -1,0 +1,1 @@
+import{s as i,g as t,h as u,i as l}from"./template.DA8Zrd-d.js";function c(s){var r=u(0);return function(){return arguments.length===1?(i(r,t(r)+1),arguments[0]):(t(r),s())}}function f(s,r){var e=s.$$events?.[r.type],a=l(e)?e.slice():e==null?[]:[e];for(var n of a)n.call(this,r)}export{f as b,c as r};

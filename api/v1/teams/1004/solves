@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "cherry_blossom", "id": 32}, "type": "correct", "team": {"name": "Qw", "id": 1004}, "user": {"name": "qwertyuiopasdf12", "id": 2273}, "challenge_id": 32, "id": 23262, "date": "2025-07-27T21:41:38.838477+00:00"}], "meta": {"count": 1}}

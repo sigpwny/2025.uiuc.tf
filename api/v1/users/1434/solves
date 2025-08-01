@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T08:41:38.512747+00:00", "user": {"id": 1434, "name": "pwnhub.com.ph"}, "id": 6986, "challenge_id": 32, "type": "correct", "team": {"id": 259, "name": "DeadSec"}, "challenge": {"id": 32, "name": "cherry_blossom", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

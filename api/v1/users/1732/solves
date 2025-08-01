@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T12:56:44.057451+00:00", "user": {"id": 1732, "name": "W4L33Dx"}, "id": 9605, "challenge_id": 17, "type": "correct", "team": {"id": 38, "name": "TheHiddenCastle"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

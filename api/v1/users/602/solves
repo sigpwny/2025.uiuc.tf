@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T10:31:29.563839+00:00", "user": {"id": 602, "name": "proxy_zero"}, "id": 8144, "challenge_id": 32, "type": "correct", "team": {"id": 150, "name": "freep0nx"}, "challenge": {"id": 32, "name": "cherry_blossom", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

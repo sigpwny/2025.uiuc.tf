@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": {
+    "email": null,
+    "id": 9999,
+    "hidden": true,
+    "members": [9999],
+    "bracket_id": null,
+    "website": null,
+    "banned": false,
+    "captain_id": 9999,
+    "created": "1960-12-25T00:00:00.000000+00:00",
+    "country": null,
+    "secret": null,
+    "affiliation": null,
+    "fields": [],
+    "name": "Anonymous",
+    "oauth_id": null,
+    "place": null,
+    "score": 0
+  }
+}

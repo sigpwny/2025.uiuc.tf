@@ -1,0 +1,1 @@
+import{$ as t,a0 as a,a1 as u,a2 as l,u as e}from"./template.DA8Zrd-d.js";function c(n){t===null&&a(),u&&t.l!==null?s(t).m.push(n):l(()=>{const o=e(n);if(typeof o=="function")return o})}function i(n){t===null&&a(),c(()=>()=>e(n))}function s(n){var o=n.l;return o.u??={a:[],b:[],m:[]}}export{i as a,c as o};

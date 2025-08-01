@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T00:56:58.009330+00:00", "user": {"id": 1057, "name": "Kriz"}, "id": 1217, "challenge_id": 10, "type": "correct", "team": {"id": 25, "name": "Norske N\u00f8kkelsnikere"}, "challenge": {"id": 10, "name": "QAS", "value": 50, "category": "pwn"}}], "meta": {"count": 1}}

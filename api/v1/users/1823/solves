@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T14:27:47.804795+00:00", "user": {"id": 1823, "name": "azod002"}, "id": 10622, "challenge_id": 10, "type": "correct", "team": {"id": 399, "name": "Misha_Palich"}, "challenge": {"id": 10, "name": "QAS", "value": 50, "category": "pwn"}}], "meta": {"count": 1}}

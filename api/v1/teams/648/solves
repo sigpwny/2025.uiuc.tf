@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T07:19:43.371434+00:00", "user": {"id": 1443, "name": "qwerty"}, "id": 6158, "challenge_id": 30, "type": "correct", "team": {"id": 648, "name": "qwerty"}, "challenge": {"id": 30, "name": "Bad Blood", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

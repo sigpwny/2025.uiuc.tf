@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T01:59:39.458071+00:00", "user": {"id": 1174, "name": "zHydra7"}, "id": 2069, "challenge_id": 30, "type": "correct", "team": {"id": 56, "name": "Nc{Cat}"}, "challenge": {"id": 30, "name": "Bad Blood", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

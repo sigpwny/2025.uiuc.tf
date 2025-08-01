@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-27T17:51:37.537970+00:00", "user": {"id": 1739, "name": "katchup"}, "id": 21890, "challenge_id": 30, "type": "correct", "team": {"id": 495, "name": "Ulisse"}, "challenge": {"id": 30, "name": "Bad Blood", "value": 50, "category": "osint"}}], "meta": {"count": 1}}

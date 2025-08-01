@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "osint", "value": 50, "name": "Bad Blood", "id": 30}, "type": "correct", "team": {"name": "RUSEC", "id": 3}, "user": {"name": "ilyree", "id": 5}, "challenge_id": 30, "id": 886, "date": "2025-07-26T00:41:30.701434+00:00"}], "meta": {"count": 1}}

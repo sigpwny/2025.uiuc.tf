@@ -1,0 +1,1 @@
+{"success": true, "data": [{"date": "2025-07-26T00:19:47.139283+00:00", "user": {"id": 1073, "name": "sup3rshy"}, "id": 436, "challenge_id": 17, "type": "correct", "team": {"id": 505, "name": "aespaFanClub"}, "challenge": {"id": 17, "name": "flag_checker", "value": 50, "category": "rev"}}], "meta": {"count": 1}}

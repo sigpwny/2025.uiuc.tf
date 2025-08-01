@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": [
+    {
+      "bracket_id": null,
+      "language": null,
+      "secret": null,
+      "id": 9999,
+      "verified": true,
+      "fields": [],
+      "hidden": true,
+      "type": "user",
+      "country": null,
+      "email": "anonymous@example.com",
+      "team_id": 9999,
+      "oauth_id": null,
+      "banned": false,
+      "created": "1960-12-25T00:00:00.000000+00:00",
+      "name": "Anonymous",
+      "affiliation": null,
+      "website": null,
+      "score": 0
+    }
+  ]
+}

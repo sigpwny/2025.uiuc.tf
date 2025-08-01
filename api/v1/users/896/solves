@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "pwn", "value": 50, "name": "QAS", "id": 10}, "type": "correct", "team": {"name": "Perperikon", "id": 373}, "user": {"name": "Darkmaster", "id": 896}, "challenge_id": 10, "id": 6467, "date": "2025-07-26T07:48:09.888407+00:00"}], "meta": {"count": 1}}

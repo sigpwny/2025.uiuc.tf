@@ -1,0 +1,1 @@
+{"success": true, "data": [{"challenge": {"category": "crypto", "value": 50, "name": "too many primes", "id": 16}, "type": "correct", "team": {"name": "Ciphergrad", "id": 97}, "user": {"name": "soup", "id": 593}, "challenge_id": 16, "id": 3082, "date": "2025-07-26T03:20:06.365089+00:00"}], "meta": {"count": 1}}
