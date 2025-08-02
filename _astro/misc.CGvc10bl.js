@@ -1,0 +1,1 @@
+import{s as u,g as t,k as i,n as l}from"./template.BGKbqTa9.js";function c(s){var r=i(0);return function(){return arguments.length===1?(u(r,t(r)+1),arguments[0]):(t(r),s())}}function f(s,r){var e=s.$$events?.[r.type],a=l(e)?e.slice():e==null?[]:[e];for(var n of a)n.call(this,r)}export{f as b,c as r};
